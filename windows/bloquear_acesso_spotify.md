@@ -15,6 +15,11 @@ $dominiosSpotify = @(
     "https://community.spotify.com/t5/Desktop-Windows/Spotify-exe-location/td-p/5260104",
     "http://download.spotify.com/SpotifyFullSetup.exe",
     "ap.spotify.com"
+    "spotify.com",
+    "spoti.fi",
+    "spotifycharts.com",
+    "spotifyforbrands.com",
+    "spotify-everywhere.com"
 )
 
 # 2. Resolve os endereços IP para cada domínio e armazena em uma lista
